@@ -5,7 +5,6 @@
       1. Akshat Namdeo
       2. Debangan Sarkar
       3. Abhinav Singh Naruka
-      4. Ashi Gupta
 
       Indian Institute of Technology Roorkee.
 
